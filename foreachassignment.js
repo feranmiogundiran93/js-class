@@ -36,3 +36,5 @@ let inactiveFigures = figures.filter(function(figure){return figure <= 20})
 let squaredFigures = inactiveFigures.map(inactivefigure => inactivefigure ** 2)
 console.log(activeFigures)
 console.log(squaredFigures)
+
+//Excited to learning github

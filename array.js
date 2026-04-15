@@ -36,3 +36,5 @@ console.log(passed)
 let ages = [18, 25, 30, 15, 20, 35, 40]
 let adults = ages.filter(function(age){return age >=18})
 console.log(adults)
+
+//learning github
